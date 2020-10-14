@@ -16,6 +16,13 @@ It has some not-so-nice caveats though, including:
 
 By using Next.js toolchain you can get the same benefits as CRA gives you, only without the caveats.
 
+Plus you get:
+
+- ability to [prerender & export](https://nextjs.org/docs/advanced-features/static-html-export) your react app as static HTML website (great for SEO)
+- a clear path to [Server-Side Rendering](https://nextjs.org/docs/basic-features/pages#server-side-rendering) should you need it
+
+and much more
+
 For more information, I highly recommend reading [Replacing Create React App with the Next.js CLI](https://gist.github.com/tannerlinsley/65ac1f0175d79d19762cf06650707830)
 
 ## Getting started
